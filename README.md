@@ -1,7 +1,5 @@
-````md
 # 👋 Hi, I'm Arv Fazriansyah!
-
-```javascript
+````js
 const profile = {
   name: "Arv Fazriansyah",
   tagline: "🌐 Web Developer | ☁️ Cloud Enthusiast | 🎨 UI/UX Learner",
